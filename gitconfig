@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = Onnojanssen@hotmail.com
+	name = onno janssen
